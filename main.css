@@ -114,16 +114,11 @@ nav a {
     min-height: 100vh;
     flex-direction: row;
 }
-.about_body{
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 .img-wrap{
     width: 100%;
 }
-.img-wrap img{width: 70%;
+.img-wrap img{width:80%;
     padding: 1%;
     border-radius: 50%;
     box-shadow: 0 0 10px #999999d8;
@@ -136,9 +131,15 @@ nav a {
 
 #aboutme p{
     text-align: left;
+    /* margin-left: 20%; */
     font-size: 15px;
 }
-
+.row3{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 80%;
+    flex-direction: row;
+}
 .row2{
     display: flex;
     flex-wrap: wrap;
