@@ -123,7 +123,7 @@ nav a {
 .img-wrap{
     width: 70%;
 }
-.img-wrap img{width: 100%;
+.img-wrap img{width: 70%;
     padding: 1%;
     border-radius: 50%;
     box-shadow: 0 0 10px #999999d8;
