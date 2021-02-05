@@ -123,13 +123,13 @@ nav a {
 .img-wrap{
     width: 70%;
 }
-.img-wrap img{width: 70%;
+.img-wrap img{width: 30%;
     padding: 1%;
     border-radius: 50%;
     box-shadow: 0 0 10px #999999d8;
 }
 #aboutme h4{margin-bottom: 25px;
-    margin-left: 20%;
+    margin-left: 10%;
     text-align: left;
     font-size: 50px;
     font-weight: bold;}
