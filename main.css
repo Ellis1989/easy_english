@@ -135,9 +135,11 @@ nav a {
     font-weight: bold;}
 
 #aboutme p{
+    margin-bottom: 25px;
+    margin-left: 10%;
     text-align: left;
     font-size: 15px;
-    margin-left: 10%;
+    
 }
 
 .row{
